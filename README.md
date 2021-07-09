@@ -58,9 +58,9 @@ Also the email of shopkeeper need to be defined at place order function in views
 
 ![Screenshot (203)](https://user-images.githubusercontent.com/62867903/122433671-10ed9280-cfb4-11eb-82e4-a7b5394de637.png)
 
-#### new order 
+#### Place New order 
 
-![Screenshot (205)](https://user-images.githubusercontent.com/62867903/122433711-19de6400-cfb4-11eb-9127-5e4bb80aeee5.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/62867903/125068643-5264ef80-e0d3-11eb-9881-ff7d901211f6.png)
 
 #### Payment Gateway
 
