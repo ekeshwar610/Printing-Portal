@@ -5,9 +5,12 @@ The website includes seperate login system for general users and shopkeeper auth
 ## Project-Members
 1.Abhishek Agrahari **https://github.com/abhishekagrahari123/**
 
-2.Mridul Gupta.
+2.Mridul Gupta
+
 3.Manish Kumar
+
 4.Kevin patel
+
 5.Abhijeet Kumar
 
 ## Installation
