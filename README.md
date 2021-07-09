@@ -8,7 +8,7 @@ python and django need to be installed
 ```bash
 pip install django
 ```
-##Usage
+## Usage
 
 Go to the Printing-Portal folder and run 
 
