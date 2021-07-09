@@ -73,3 +73,10 @@ Also the email of shopkeeper need to be defined at place order function in views
 
 
 ![Screenshot (211)](https://user-images.githubusercontent.com/62867903/122434863-1ac3c580-cfb5-11eb-9ae2-2749858ab5e9.png)
+
+## Project-Members
+1.Abhishek Agrahari
+2.Mridul Gupta
+3.Manish Kumar
+4.Kevin patel
+5.Abhijeet Kumar
