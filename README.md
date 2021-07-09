@@ -16,14 +16,14 @@ Go to the Printing-Portal folder and run
 python manage.py runserver
 ```
 
-Then go to the browser and enter the url **http://loaclhost:8000**
+Then go to the browser and enter the url **http://loaclhost:8000/printing_portal/**
 
 ## Login
 
 The login page is common for customer and shopkeeper.  
 The username is their microsoft outlook email-id and password is thier respective email password.
 
-You can access the django admin page at **http://127.0.0.1:8000/admin**, after creating new admin user by following command
+You can access the django admin page at **http://127.0.0.1:8000/printing_portal/admin**, after creating new admin user by following command
 
 ```bash
 python manage.py createsuperuser
