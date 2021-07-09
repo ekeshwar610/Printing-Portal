@@ -5,13 +5,13 @@ The website includes seperate login system for general users and shopkeeper auth
 ## Project-Members
 1.Abhishek Agrahari  **https://github.com/abhishekagrahari123/**
 
-2.Mridul Gupta
+2.Mridul Gupta 
 
-3.Manish Kumar
+3.Manish Kumar **https://github.com/manish-kumar-iit-guwahati**
 
-4.Kevin patel
+4.Kevin patel  **https://github.com/kevinpatelwd101/**
 
-5.Abhijeet Kumar
+5.Abhijeet Kumar **https://github.com/Abhijeet-singhania**
 
 ## Installation
 python and django need to be installed
