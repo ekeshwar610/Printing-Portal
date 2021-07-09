@@ -3,7 +3,7 @@ A printing portal website developed using Django Framework,where user can upload
 The website includes seperate login system for general users and shopkeeper authenticated with microsoft auth.
 
 ## Project-Members
-1.Abhishek Agrahari **https://github.com/abhishekagrahari123/**
+1.Abhishek Agrahari  **https://github.com/abhishekagrahari123/**
 
 2.Mridul Gupta
 
