@@ -2,6 +2,14 @@
 A printing portal website developed using Django Framework,where user can upload his/her document to be printed and can pay respective amount using integrated epayment gateway.
 The website includes seperate login system for general users and shopkeeper authenticated with microsoft auth.
 
+## Project-Members
+1.Abhishek Agrahari **https://github.com/abhishekagrahari123/**
+
+2.Mridul Gupta
+3.Manish Kumar
+4.Kevin patel
+5.Abhijeet Kumar
+
 ## Installation
 python and django need to be installed
 
@@ -74,9 +82,4 @@ Also the email of shopkeeper need to be defined at place order function in views
 
 ![Screenshot (211)](https://user-images.githubusercontent.com/62867903/122434863-1ac3c580-cfb5-11eb-9ae2-2749858ab5e9.png)
 
-## Project-Members
-1.Abhishek Agrahari **https://github.com/abhishekagrahari123/**
-2.Mridul Gupta
-3.Manish Kumar
-4.Kevin patel
-5.Abhijeet Kumar
+
