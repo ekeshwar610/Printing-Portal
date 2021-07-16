@@ -13,6 +13,8 @@ The website includes seperate login system for general users and shopkeeper auth
 
 5.Abhijeet Kumar **https://github.com/Abhijeet-singhania**
 
+6. Ekeswar Naukala **https://github.com/ekeshwar610**
+
 ## Installation
 python and django need to be installed
 
